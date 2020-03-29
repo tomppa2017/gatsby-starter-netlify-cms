@@ -2,7 +2,7 @@
 templateKey: index-page
 title: Around Overground
 image: /img/home-jumbotron.jpg
-heading: 'Overground travel, around the world'
+heading: 'Overground travel by public transport, around the world'
 subheading: 'Overground travel, around the world'
 mainpitch:
   title: About this blog
